@@ -1,2 +1,2 @@
 # Cloud-Migration
-Cloud Migration project for BTC Enterprise 
+Migrating on-premise workloads to the cloud using Microsoft Azure and SharePoint
